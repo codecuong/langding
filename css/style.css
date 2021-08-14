@@ -843,10 +843,10 @@ table tr td {
         width: 100%;
     }
     .search-box:hover input{
-    width: 200px;
+    width: 180px;
     }
     .search-box input:focus{
-    width: 200px; 
+    width: 180px; 
     }
     .footer-left {
         width: 80%;
@@ -888,6 +888,19 @@ table tr td {
     #content{
         width: 100%;
     }
+
+    .content-child{
+        width: 100%;
+        display: block;
+    }
+    #statistical-table{
+        width: 100%;
+        display: block;
+    }
+    #statistical-table .wrap{
+        width: 100%;
+    }
+
     .footer-left {
         width: 80%;
         margin-right: 50px;
