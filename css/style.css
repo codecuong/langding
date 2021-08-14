@@ -736,6 +736,7 @@ table tr td {
     width: 30%;
     display: inline-block;
     margin-right: 100px;
+    margin-bottom: 20px;
 }
 .footer-left p{
     margin: 8px 0;
